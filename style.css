@@ -329,14 +329,14 @@ body {
 }
 .modal_text h1 {
 	font-size: 17px;
-	left:-5px;
+	left:-7px;
 	position: relative;
 	font-weight: bold;
 }
 
 .modal_text h2 {
 	font-size: 11px;
-	left:-5px;
+	left:-7px;
 	position: relative;
 	text-align: center;
 }

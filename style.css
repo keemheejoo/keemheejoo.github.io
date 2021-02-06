@@ -330,14 +330,12 @@ body {
 .modal_text h1 {
 	font-size: 17px;
 	position: relative;
-/* 	left: -7px; */
 	font-weight: bold;
 }
 
 .modal_text h2 {
 	font-size: 11px;
 	position: relative;
-/* 	left: -5px; */
 	text-align: center;
 }
 

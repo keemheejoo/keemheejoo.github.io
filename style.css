@@ -154,8 +154,7 @@ body {
 		color: white;
 	}
 .button::selection {
-		background-color: #FCFF2E;
-		color: white;
+		background-color: none;
 	}
 
 

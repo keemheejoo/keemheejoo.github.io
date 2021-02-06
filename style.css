@@ -249,6 +249,7 @@ body {
 video{
 	display: inline-block;
 	width: 300px;
+	top:20px;
 	position: absolute;
 }
 
@@ -301,7 +302,7 @@ body {
 	position: fixed;
 	display: block;
 	width: 340px;
-	height: 600px;
+	height: 605px;
 	top: 20px;
 	left: 20px;
 	padding: 20px;
@@ -325,18 +326,18 @@ body {
 	color: white;
 	position: absolute;
 	text-align: center;
-	top: 335px;
+	top: 340px;
 }
 .modal_text h1 {
 	font-size: 17px;
-	left:-7px;
+	left: 0px;
 	position: relative;
 	font-weight: bold;
 }
 
 .modal_text h2 {
 	font-size: 11px;
-	left:-7px;
+	left: 0px;
 	position: relative;
 	text-align: center;
 }
@@ -347,12 +348,11 @@ body {
 }
 
 .closer{
-	position: absolute;
+	position: relative;
 	color: white;
 	width: 40px;
 	height: 80px;
-	bottom: -10px;
-	left: 150px;
+	left: 134px;
 	font-size: 50px;
 	font-weight: bold;
 	text-align: center;

@@ -325,10 +325,10 @@ body {
 .modal_text {
 	color: white;
 	position: absolute;
+	top: 340px;
 	width: 300px;
 	height: auto;
 	text-align: center;
-	top: 340px;
 }
 .modal_text h1 {
 	font-size: 17px;
@@ -340,7 +340,6 @@ body {
 .modal_text h2 {
 	font-size: 11px;
 	letter-spacing: -0.5px;
-	position: relative;
 	top: 0px;
 	left: 0px;
 	position: relative;

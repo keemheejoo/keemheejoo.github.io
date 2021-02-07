@@ -340,6 +340,8 @@ body {
 .modal_text h2 {
 	font-size: 11px;
 	letter-spacing: -0.5px;
+	position: relative;
+	top:100px;
 	left: 0px;
 	position: relative;
 	text-align: center;
